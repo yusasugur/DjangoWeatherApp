@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6df3d9e0-3b35-4254-bfc6-9f2c34106859" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yhjw7RKxGPtHkCWkkZRvu1aCQn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/weather" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.pyOptions" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates/weather" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="the_weather" type="Python.DjangoServer" factoryName="Django server">
+      <module name="the_weather" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="the_weather.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6df3d9e0-3b35-4254-bfc6-9f2c34106859" name="Default Changelist" comment="" />
+      <created>1583401955951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583401955951</updated>
+      <workItem from="1583401958171" duration="2058000" />
+      <workItem from="1583438506784" duration="5579000" />
+      <workItem from="1583594959388" duration="194000" />
+      <workItem from="1583696759706" duration="5102000" />
+      <workItem from="1584273520655" duration="8442000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="176" width="800" height="677" key="#Inspections" timestamp="1583472180736">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="555" y="176" width="800" height="677" key="#Inspections/1920.0.1920.1080/0.0.1920.1032@0.0.1920.1032" timestamp="1583472180736" />
+    <state x="2475" y="176" width="800" height="729" key="#Intentions" timestamp="1584279461226">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="176" width="800" height="729" key="#Intentions/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584279461226" />
+    <state x="2475" y="176" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583438528822">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="176" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1032@1920.0.1920.1080" timestamp="1583438528822" />
+    <state x="2591" y="320" width="568" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584279191890">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2591" y="320" width="568" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584279191890" />
+    <state width="1163" height="248" key="GridCell.Tab.0.bottom" timestamp="1584282730579">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1163" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584282730579" />
+    <state width="1874" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1583595152333" />
+    <state width="1874" height="248" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1032@0.0.1920.1032" timestamp="1583825596450" />
+    <state width="1874" height="248" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1032@1920.0.1920.1080" timestamp="1583425050503" />
+    <state width="1163" height="248" key="GridCell.Tab.0.center" timestamp="1584282730579">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1163" height="248" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584282730579" />
+    <state width="1874" height="248" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1583595152332" />
+    <state width="1874" height="248" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1032@0.0.1920.1032" timestamp="1583825596450" />
+    <state width="1874" height="248" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1032@1920.0.1920.1080" timestamp="1583425050502" />
+    <state width="1163" height="248" key="GridCell.Tab.0.left" timestamp="1584282730579">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1163" height="248" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584282730579" />
+    <state width="1874" height="248" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1583595152332" />
+    <state width="1874" height="248" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1032@0.0.1920.1032" timestamp="1583825596449" />
+    <state width="1874" height="248" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1032@1920.0.1920.1080" timestamp="1583425050502" />
+    <state width="1163" height="248" key="GridCell.Tab.0.right" timestamp="1584282730579">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1163" height="248" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584282730579" />
+    <state width="1874" height="248" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1583595152333" />
+    <state width="1874" height="248" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1032@0.0.1920.1032" timestamp="1583825596450" />
+    <state width="1874" height="248" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1032@1920.0.1920.1080" timestamp="1583425050502" />
+    <state x="2369" y="157" key="SettingsEditor" timestamp="1584274043820">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2369" y="157" key="SettingsEditor/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1584274043820" />
+    <state x="449" y="150" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1032@0.0.1920.1032" timestamp="1583697297880" />
+    <state x="84" y="198" width="1720" height="834" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1583697151423">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="84" y="198" width="1720" height="834" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.0.1920.1080/0.0.1920.1032@0.0.1920.1032" timestamp="1583697151423" />
+    <state x="739" y="153" width="432" height="723" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583697062053">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="739" y="153" width="432" height="723" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.0.1920.1032@0.0.1920.1032" timestamp="1583697062053" />
+  </component>
+</project>
